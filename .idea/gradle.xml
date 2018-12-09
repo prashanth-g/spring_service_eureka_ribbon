@@ -8,8 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/eureka_client_01" />
+            <option value="$PROJECT_DIR$/eureka_client_02" />
+            <option value="$PROJECT_DIR$/eureka_service" />
+            <option value="$PROJECT_DIR$/ribbon_loadbalancer_client" />
           </set>
         </option>
+        <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>
   </component>

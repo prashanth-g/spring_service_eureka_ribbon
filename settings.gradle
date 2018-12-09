@@ -1,2 +1,6 @@
-rootProject.name = 'spring.ribbon'
+rootProject.name = 'spring_service_eureka_ribbon'
+include 'eureka_service'
+include 'eureka_client_01'
+include 'ribbon_loadbalancer_client'
+include 'eureka_client_02'
 

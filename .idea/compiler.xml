@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="eureka_client_main" target="1.8" />
+      <module name="eureka_client_test" target="1.8" />
+      <module name="spring.ribbon_main" target="1.8" />
+      <module name="spring.ribbon_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
